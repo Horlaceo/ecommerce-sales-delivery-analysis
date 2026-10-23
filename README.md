@@ -70,7 +70,7 @@ The Executive Overview dashboard presents the main performance indicators and tr
 * Monthly delivered order volume
 * Average review score by delivery performance
 
-*A dashboard screenshot will be added to this repository.*
+*The Executive Overview dashboard screenshot is included in this repository.*
 
 ## Tools and Skills Demonstrated
 
